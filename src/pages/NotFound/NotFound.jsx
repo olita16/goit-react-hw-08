@@ -12,7 +12,7 @@ const NotFound = () => {
     <div className={css.container}>
       <img
         className={css.imageBg}
-        src="/public/images/Page404.jpeg"
+        src="/images/Page404.jpeg"
         width={500}
         alt="Page Not Found"
       />

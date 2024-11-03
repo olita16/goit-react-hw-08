@@ -1,0 +1,9 @@
+.imageBg{
+  position: relative;
+  width: 100%;
+  min-height: 696px;
+  margin: 0 auto;
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+}

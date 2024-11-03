@@ -1,0 +1,11 @@
+.containerBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(23, 18, 58);
+  min-height: 50px;
+  border-radius: 4px;
+  min-width: 500px;
+  margin: 15px auto;
+  padding: 10px;
+}

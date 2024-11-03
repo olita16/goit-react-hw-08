@@ -1,0 +1,56 @@
+.container {
+  margin-right: 15px;
+}
+
+  .headText {
+    color: #4a54c2;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: center;
+  }
+
+  .container {
+    display: flex;
+    justify-content: space-between;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .divNav {
+    display: flex;
+    gap: 15px;
+  }
+  
+  
+  .logoutBtn {
+    padding: 14px;
+    border-radius: 50px;
+    background-color: #e9e3f8;
+    color: #27016f;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 12px;
+    cursor: pointer;
+    margin-right: 20px;
+  }
+  
+  .btnAdd:hover,
+  .btnAdd:focus {
+    border-color: #250272;
+    background-color: #250272;
+    color: rgb(210, 201, 249);
+  }
+  
+  .headText {
+    color: #dedcfc;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    text-decoration: none;
+    margin-left: 20px;
+  }

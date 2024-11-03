@@ -4,8 +4,8 @@ import css from "./HomePage.module.css"
 
 const HomePage = () => {
   return (
-    <div className={css.imageBg}>
-      <h1>Welcome</h1>
+    <div>
+      <img className={css.imageBg} src="/src/assets/img/Phone-bg.jpg" width={500} alt="Managing contacts" />
     </div>
   );
 };
